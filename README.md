@@ -1,6 +1,8 @@
-# Week One Recap Quiz
+# JavaScript Fundamentals Recap Quiz
 
-You will find comments in each file describing what you will be required to do. You are allowed to google things but no copying and pasting is allowed. There will be no help from any coaches. If you get stuck, try to break down the problem (remember the Computational Thinking stages) and persevere (it's a key skill for a developer) - if you still can't make any progress then move on and come back to it at the end.
+You will find comments in each file describing what you will be required to do. You are allowed to google things but no copying and pasting is allowed. If you get stuck, try to break down the problem (remember the computational thinking stages) and persevere (it's a key skill for a developer) - if you still can't make any progress then move on and come back to it at the end.
+
+You are allowed no more than 2 hours for the recap quiz, so find a time during the week that you can dedicate to doing it in one sitting. Make a commit with the message "start" when you begin the task and the message "finish" when you finish so that it's clear you have stuck to the time limit. Don't worry if you don't finish the tasks - this is about demonstrating how much you've learnt, but also about identifying what you need to improve.
 
 ## Section 1: JS Fundamentals
 
