@@ -1,4 +1,4 @@
-# JavaScript Fundamentals Recap Quiz
+# Web Development Fundamentals Recap Quiz
 
 You will find comments in each file describing what you will be required to do. You are allowed to google things but no copying and pasting is allowed. If you get stuck, try to break down the problem (remember the computational thinking stages) and persevere (it's a key skill for a developer) - if you still can't make any progress then move on and come back to it at the end.
 
